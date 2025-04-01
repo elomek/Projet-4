@@ -10,3 +10,4 @@ graph TD
     API -->|Renvoie les résultats au frontend| Frontend
     Frontend -->|Affiche les résultats de l'analyse| User
 
+
